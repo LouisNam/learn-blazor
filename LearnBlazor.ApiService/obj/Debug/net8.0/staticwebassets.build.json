@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "MBbRzxckVcxArgNP3/MFkea25l7hfvaJahXpVg8xBh0=",
+  "Source": "LearnBlazor.ApiService",
+  "BasePath": "_content/LearnBlazor.ApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
