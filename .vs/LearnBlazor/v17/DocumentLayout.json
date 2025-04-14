@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "D:\\MyProject\\learn-blazor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C039ADAF-3B12-4BD4-B195-AEE7EAC70424}|LearnBlazor.Web\\LearnBlazor.Web.csproj|d:\\myproject\\learn-blazor\\learnblazor.web\\components\\pages\\product\\createproduct.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C039ADAF-3B12-4BD4-B195-AEE7EAC70424}|LearnBlazor.Web\\LearnBlazor.Web.csproj|solutionrelative:learnblazor.web\\components\\pages\\product\\createproduct.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5635B5D6-8E64-47E9-9D40-0EC5ADE5DA70}|LearnBlazor.Business\\LearnBlazor.Business.csproj|d:\\myproject\\learn-blazor\\learnblazor.business\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5635B5D6-8E64-47E9-9D40-0EC5ADE5DA70}|LearnBlazor.Business\\LearnBlazor.Business.csproj|solutionrelative:learnblazor.business\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5635B5D6-8E64-47E9-9D40-0EC5ADE5DA70}|LearnBlazor.Business\\LearnBlazor.Business.csproj|d:\\myproject\\learn-blazor\\learnblazor.business\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5635B5D6-8E64-47E9-9D40-0EC5ADE5DA70}|LearnBlazor.Business\\LearnBlazor.Business.csproj|solutionrelative:learnblazor.business\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDBB1F3E-CCA4-4090-992B-E31A6D4F9411}|LearnBlazor.ApiService\\LearnBlazor.ApiService.csproj|d:\\myproject\\learn-blazor\\learnblazor.apiservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDBB1F3E-CCA4-4090-992B-E31A6D4F9411}|LearnBlazor.ApiService\\LearnBlazor.ApiService.csproj|solutionrelative:learnblazor.apiservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C039ADAF-3B12-4BD4-B195-AEE7EAC70424}|LearnBlazor.Web\\LearnBlazor.Web.csproj|d:\\myproject\\learn-blazor\\learnblazor.web\\components\\pages\\product\\indexproduct.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C039ADAF-3B12-4BD4-B195-AEE7EAC70424}|LearnBlazor.Web\\LearnBlazor.Web.csproj|solutionrelative:learnblazor.web\\components\\pages\\product\\indexproduct.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C039ADAF-3B12-4BD4-B195-AEE7EAC70424}|LearnBlazor.Web\\LearnBlazor.Web.csproj|d:\\myproject\\learn-blazor\\learnblazor.web\\components\\pages\\product\\createproduct.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C039ADAF-3B12-4BD4-B195-AEE7EAC70424}|LearnBlazor.Web\\LearnBlazor.Web.csproj|solutionrelative:learnblazor.web\\components\\pages\\product\\createproduct.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5635B5D6-8E64-47E9-9D40-0EC5ADE5DA70}|LearnBlazor.Business\\LearnBlazor.Business.csproj|d:\\myproject\\learn-blazor\\learnblazor.business\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5635B5D6-8E64-47E9-9D40-0EC5ADE5DA70}|LearnBlazor.Business\\LearnBlazor.Business.csproj|solutionrelative:learnblazor.business\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C039ADAF-3B12-4BD4-B195-AEE7EAC70424}|LearnBlazor.Web\\LearnBlazor.Web.csproj|d:\\myproject\\learn-blazor\\learnblazor.web\\components\\pages\\product\\indexproduct.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C039ADAF-3B12-4BD4-B195-AEE7EAC70424}|LearnBlazor.Web\\LearnBlazor.Web.csproj|solutionrelative:learnblazor.web\\components\\pages\\product\\indexproduct.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C039ADAF-3B12-4BD4-B195-AEE7EAC70424}|LearnBlazor.Web\\LearnBlazor.Web.csproj|d:\\myproject\\learn-blazor\\learnblazor.web\\components\\basecomponents\\appmodal.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C039ADAF-3B12-4BD4-B195-AEE7EAC70424}|LearnBlazor.Web\\LearnBlazor.Web.csproj|solutionrelative:learnblazor.web\\components\\basecomponents\\appmodal.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,50 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 471,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CreateProduct.razor.cs",
-              "DocumentMoniker": "D:\\MyProject\\learn-blazor\\LearnBlazor.Web\\Components\\Pages\\Product\\CreateProduct.razor.cs",
-              "RelativeDocumentMoniker": "LearnBlazor.Web\\Components\\Pages\\Product\\CreateProduct.razor.cs",
-              "ToolTip": "D:\\MyProject\\learn-blazor\\LearnBlazor.Web\\Components\\Pages\\Product\\CreateProduct.razor.cs",
-              "RelativeToolTip": "LearnBlazor.Web\\Components\\Pages\\Product\\CreateProduct.razor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T04:42:38.711Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\MyProject\\learn-blazor\\LearnBlazor.ApiService\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "LearnBlazor.ApiService\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\MyProject\\learn-blazor\\LearnBlazor.ApiService\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "LearnBlazor.ApiService\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T05:03:51.4Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreateProduct.razor",
-              "DocumentMoniker": "D:\\MyProject\\learn-blazor\\LearnBlazor.Web\\Components\\Pages\\Product\\CreateProduct.razor",
-              "RelativeDocumentMoniker": "LearnBlazor.Web\\Components\\Pages\\Product\\CreateProduct.razor",
-              "ToolTip": "D:\\MyProject\\learn-blazor\\LearnBlazor.Web\\Components\\Pages\\Product\\CreateProduct.razor",
-              "RelativeToolTip": "LearnBlazor.Web\\Components\\Pages\\Product\\CreateProduct.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-14T05:09:38.283Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
@@ -100,15 +70,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\MyProject\\learn-blazor\\LearnBlazor.Business\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "LearnBlazor.Business\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\MyProject\\learn-blazor\\LearnBlazor.Business\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "LearnBlazor.Business\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:13:52.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ProductService.cs",
               "DocumentMoniker": "D:\\MyProject\\learn-blazor\\LearnBlazor.Business\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "LearnBlazor.Business\\Services\\ProductService.cs",
               "ToolTip": "D:\\MyProject\\learn-blazor\\LearnBlazor.Business\\Services\\ProductService.cs",
               "RelativeToolTip": "LearnBlazor.Business\\Services\\ProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T05:05:26.415Z",
+              "WhenOpened": "2025-04-14T16:13:00.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\MyProject\\learn-blazor\\LearnBlazor.ApiService\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "LearnBlazor.ApiService\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\MyProject\\learn-blazor\\LearnBlazor.ApiService\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "LearnBlazor.ApiService\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:12:09.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateProduct.razor.cs",
+              "DocumentMoniker": "D:\\MyProject\\learn-blazor\\LearnBlazor.Web\\Components\\Pages\\Product\\CreateProduct.razor.cs",
+              "RelativeDocumentMoniker": "LearnBlazor.Web\\Components\\Pages\\Product\\CreateProduct.razor.cs",
+              "ToolTip": "D:\\MyProject\\learn-blazor\\LearnBlazor.Web\\Components\\Pages\\Product\\CreateProduct.razor.cs",
+              "RelativeToolTip": "LearnBlazor.Web\\Components\\Pages\\Product\\CreateProduct.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:10:42.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IndexProduct.razor.cs",
+              "DocumentMoniker": "D:\\MyProject\\learn-blazor\\LearnBlazor.Web\\Components\\Pages\\Product\\IndexProduct.razor.cs",
+              "RelativeDocumentMoniker": "LearnBlazor.Web\\Components\\Pages\\Product\\IndexProduct.razor.cs",
+              "ToolTip": "D:\\MyProject\\learn-blazor\\LearnBlazor.Web\\Components\\Pages\\Product\\IndexProduct.razor.cs",
+              "RelativeToolTip": "LearnBlazor.Web\\Components\\Pages\\Product\\IndexProduct.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:02:00.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IndexProduct.razor",
+              "DocumentMoniker": "D:\\MyProject\\learn-blazor\\LearnBlazor.Web\\Components\\Pages\\Product\\IndexProduct.razor",
+              "RelativeDocumentMoniker": "LearnBlazor.Web\\Components\\Pages\\Product\\IndexProduct.razor",
+              "ToolTip": "D:\\MyProject\\learn-blazor\\LearnBlazor.Web\\Components\\Pages\\Product\\IndexProduct.razor",
+              "RelativeToolTip": "LearnBlazor.Web\\Components\\Pages\\Product\\IndexProduct.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T16:01:55.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppModal.razor",
+              "DocumentMoniker": "D:\\MyProject\\learn-blazor\\LearnBlazor.Web\\Components\\BaseComponents\\AppModal.razor",
+              "RelativeDocumentMoniker": "LearnBlazor.Web\\Components\\BaseComponents\\AppModal.razor",
+              "ToolTip": "D:\\MyProject\\learn-blazor\\LearnBlazor.Web\\Components\\BaseComponents\\AppModal.razor",
+              "RelativeToolTip": "LearnBlazor.Web\\Components\\BaseComponents\\AppModal.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T15:54:35.953Z",
               "EditorCaption": ""
             }
           ]

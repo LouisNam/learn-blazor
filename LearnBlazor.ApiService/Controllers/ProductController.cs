@@ -22,5 +22,40 @@ namespace LearnBlazor.ApiService.Controllers
             await productService.CreateProduct(productModel);
             return Ok(new BaseResponseModel { Success = true });
         }
+
+        [HttpGet("{id}")]
+        public async Task<ActionResult<BaseResponseModel>> GetProduct(int id)
+        {
+            var product = await productService.GetProduct(id);
+            if (product == null)
+            {
+                return Ok(new BaseResponseModel { Success = false, ErrorMessage = "Not found" });
+            }
+            return Ok(new BaseResponseModel { Success = true, Data = product });
+        }
+
+        [HttpPut("{id}")]
+        public async Task<ActionResult<BaseResponseModel>> UpdateProduct(int id, ProductModel model)
+        {
+            if (id != model.ID || !await productService.ProductModelExists(id))
+            {
+                return Ok(new BaseResponseModel { Success = false, ErrorMessage = "Not found" });
+            }
+
+            await productService.UpdateProduct(model);
+            return Ok(new BaseResponseModel { Success = true });
+        }
+
+        [HttpDelete("{id}")]
+        public async Task<ActionResult<BaseResponseModel>> DeleteProduct(int id)
+        {
+            if (!await productService.ProductModelExists(id))
+            {
+                return Ok(new BaseResponseModel { Success = false, ErrorMessage = "Not found" });
+            }
+
+            await productService.DeleteProduct(id);
+            return Ok(new BaseResponseModel { Success = true });
+        }
     }
 }
