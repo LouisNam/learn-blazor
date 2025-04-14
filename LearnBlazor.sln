@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35728.132 d17.12
+VisualStudioVersion = 17.12.35728.132
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnBlazor.AppHost", "LearnBlazor.AppHost\LearnBlazor.AppHost.csproj", "{3C14619B-B8DA-442D-A6EF-03DCCF22D2EF}"
 EndProject
@@ -53,5 +53,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B242A07D-3111-44DB-A26E-B860548598E7}
 	EndGlobalSection
 EndGlobal

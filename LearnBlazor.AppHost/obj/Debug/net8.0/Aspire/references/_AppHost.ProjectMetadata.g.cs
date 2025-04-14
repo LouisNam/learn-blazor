@@ -8,5 +8,5 @@ namespace Projects;
 public class LearnBlazor_AppHost
 {
     private LearnBlazor_AppHost() { }
-    public static string ProjectPath => """C:\Users\namdott\source\repos\LearnBlazor\LearnBlazor.AppHost""";
+    public static string ProjectPath => """D:\MyProject\learn-blazor\LearnBlazor.AppHost""";
 }

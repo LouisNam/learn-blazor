@@ -7,11 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Repositories\" />
-    <Folder Include="Services\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\LearnBlazor.Database\LearnBlazor.Database.csproj" />
     <ProjectReference Include="..\LearnBlazor.Model\LearnBlazor.Model.csproj" />
   </ItemGroup>

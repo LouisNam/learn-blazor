@@ -7,5 +7,5 @@ namespace Projects;
 [global::System.Diagnostics.DebuggerDisplay("Type = {GetType().Name,nq}, ProjectPath = {ProjectPath}")]
 public class LearnBlazor_ApiService : global::Aspire.Hosting.IProjectMetadata
 {
-    public string ProjectPath => """C:\Users\namdott\source\repos\LearnBlazor\LearnBlazor.ApiService\LearnBlazor.ApiService.csproj""";
+    public string ProjectPath => """D:\MyProject\learn-blazor\LearnBlazor.ApiService\LearnBlazor.ApiService.csproj""";
 }

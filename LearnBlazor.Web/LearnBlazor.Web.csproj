@@ -3,10 +3,16 @@
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
+    <Nullable>disable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Blazored.Toast" Version="4.2.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LearnBlazor.Model\LearnBlazor.Model.csproj" />
     <ProjectReference Include="..\LearnBlazor.ServiceDefaults\LearnBlazor.ServiceDefaults.csproj" />
   </ItemGroup>
 

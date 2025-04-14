@@ -12,20 +12,20 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("d94aad52-f4e0-4dcb-ae07-1a91524a2b5d")]
-[assembly: System.Reflection.AssemblyMetadata("dcpclipath", "C:\\Users\\namdott\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.0.0\\tools" +
-    "\\dcp.exe")]
-[assembly: System.Reflection.AssemblyMetadata("dcpextensionpaths", "C:\\Users\\namdott\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.0.0\\tools" +
-    "\\ext\\")]
-[assembly: System.Reflection.AssemblyMetadata("dcpbinpath", "C:\\Users\\namdott\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.0.0\\tools" +
-    "\\ext\\bin\\")]
-[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Users\\namdott\\source\\repos\\LearnBlazor\\LearnBlazor.AppHost")]
+[assembly: System.Reflection.AssemblyMetadata("dcpclipath", "C:\\Users\\dotra\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.0.0\\tools\\d" +
+    "cp.exe")]
+[assembly: System.Reflection.AssemblyMetadata("dcpextensionpaths", "C:\\Users\\dotra\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.0.0\\tools\\e" +
+    "xt\\")]
+[assembly: System.Reflection.AssemblyMetadata("dcpbinpath", "C:\\Users\\dotra\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.0.0\\tools\\e" +
+    "xt\\bin\\")]
+[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "D:\\MyProject\\learn-blazor\\LearnBlazor.AppHost")]
 [assembly: System.Reflection.AssemblyMetadata("apphostprojectname", "LearnBlazor.AppHost.csproj")]
-[assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", "C:\\Users\\namdott\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\9.0.0\\tools\\Aspire." +
-    "Dashboard.exe")]
+[assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", "C:\\Users\\dotra\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\9.0.0\\tools\\Aspire.Da" +
+    "shboard.exe")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("LearnBlazor.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dad3a153265d36c78f939a99b643040f8825acd7")]
 [assembly: System.Reflection.AssemblyProductAttribute("LearnBlazor.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LearnBlazor.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

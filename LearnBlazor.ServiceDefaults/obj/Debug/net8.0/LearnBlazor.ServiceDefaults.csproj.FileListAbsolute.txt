@@ -10,3 +10,16 @@ C:\Users\namdott\source\repos\LearnBlazor\LearnBlazor.ServiceDefaults\obj\Debug\
 C:\Users\namdott\source\repos\LearnBlazor\LearnBlazor.ServiceDefaults\obj\Debug\net8.0\refint\LearnBlazor.ServiceDefaults.dll
 C:\Users\namdott\source\repos\LearnBlazor\LearnBlazor.ServiceDefaults\obj\Debug\net8.0\LearnBlazor.ServiceDefaults.pdb
 C:\Users\namdott\source\repos\LearnBlazor\LearnBlazor.ServiceDefaults\obj\Debug\net8.0\ref\LearnBlazor.ServiceDefaults.dll
+D:\MyProject\learn-blazor\LearnBlazor.ServiceDefaults\bin\Debug\net8.0\LearnBlazor.ServiceDefaults.deps.json
+D:\MyProject\learn-blazor\LearnBlazor.ServiceDefaults\bin\Debug\net8.0\LearnBlazor.ServiceDefaults.dll
+D:\MyProject\learn-blazor\LearnBlazor.ServiceDefaults\bin\Debug\net8.0\LearnBlazor.ServiceDefaults.pdb
+D:\MyProject\learn-blazor\LearnBlazor.ServiceDefaults\obj\Debug\net8.0\LearnBlazor.ServiceDefaults.csproj.AssemblyReference.cache
+D:\MyProject\learn-blazor\LearnBlazor.ServiceDefaults\obj\Debug\net8.0\LearnBlazor.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProject\learn-blazor\LearnBlazor.ServiceDefaults\obj\Debug\net8.0\LearnBlazor.ServiceDefaults.AssemblyInfoInputs.cache
+D:\MyProject\learn-blazor\LearnBlazor.ServiceDefaults\obj\Debug\net8.0\LearnBlazor.ServiceDefaults.AssemblyInfo.cs
+D:\MyProject\learn-blazor\LearnBlazor.ServiceDefaults\obj\Debug\net8.0\LearnBlazor.ServiceDefaults.csproj.CoreCompileInputs.cache
+D:\MyProject\learn-blazor\LearnBlazor.ServiceDefaults\obj\Debug\net8.0\LearnBlazor.ServiceDefaults.sourcelink.json
+D:\MyProject\learn-blazor\LearnBlazor.ServiceDefaults\obj\Debug\net8.0\LearnBlazor.ServiceDefaults.dll
+D:\MyProject\learn-blazor\LearnBlazor.ServiceDefaults\obj\Debug\net8.0\refint\LearnBlazor.ServiceDefaults.dll
+D:\MyProject\learn-blazor\LearnBlazor.ServiceDefaults\obj\Debug\net8.0\LearnBlazor.ServiceDefaults.pdb
+D:\MyProject\learn-blazor\LearnBlazor.ServiceDefaults\obj\Debug\net8.0\ref\LearnBlazor.ServiceDefaults.dll
